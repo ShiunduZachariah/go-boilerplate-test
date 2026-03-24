@@ -5,7 +5,7 @@ A production-ready Go backend boilerplate with comprehensive features including 
 ## ✨ Features
 
 - **🔐 Authentication** - Clerk SDK integration for secure user authentication and management
-- **💾 Database** - PostgreSQL with pgx driver and automatic migrations using Tern
+- **💾 Database** - Post   git add .gitignore README.md   git add .gitignore README.mdgreSQL with pgx driver and automatic migrations using Tern
 - **⚡ Caching & Job Queue** - Redis integration with Asynq for async task processing
 - **📧 Email Service** - Built-in email notifications with Resend integration
 - **📊 Observability** - New Relic APM integration with distributed tracing and performance monitoring
