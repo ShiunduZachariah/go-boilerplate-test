@@ -13,8 +13,12 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+<<<<<<< HEAD
+tmp/
+=======
 
 .DS_Store
+>>>>>>> origin/master
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
@@ -23,6 +27,10 @@
 go.work
 go.work.sum
 
+<<<<<<< HEAD
+# env file
+.env
+=======
 # Project-specific
 config.toml
 
@@ -56,3 +64,4 @@ tsconfig.tsbuildinfo
 .env
 .turbo
 .vscode
+>>>>>>> origin/master
