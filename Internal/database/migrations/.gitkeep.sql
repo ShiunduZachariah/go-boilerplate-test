@@ -1,0 +1,1 @@
+-- placeholder to satisfy go:embed until real migrations are added
