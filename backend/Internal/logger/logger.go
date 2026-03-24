@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ShiunduZachariah/go-boilerplate-test/Internal/config"
+	"github.com/ShiunduZachariah/go-boilerplate-test/internal/config"
 	"github.com/newrelic/go-agent/v3/newrelic"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/pkgerrors"
