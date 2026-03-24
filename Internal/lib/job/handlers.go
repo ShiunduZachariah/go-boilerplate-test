@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ShiunduZachariah/go-boilerplate-test/Internal/config"
+	"github.com/ShiunduZachariah/go-boilerplate-test/internal/config"
 	"github.com/ShiunduZachariah/go-boilerplate-test/internal/lib/email"
 	"github.com/hibiken/asynq"
 	"github.com/rs/zerolog"

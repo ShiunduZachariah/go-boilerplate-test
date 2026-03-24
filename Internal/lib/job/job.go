@@ -1,7 +1,7 @@
 package job
 
 import (
-	"github.com/ShiunduZachariah/go-boilerplate-test/Internal/config"
+	"github.com/ShiunduZachariah/go-boilerplate-test/internal/config"
 	"github.com/hibiken/asynq"
 	"github.com/rs/zerolog"
 )
